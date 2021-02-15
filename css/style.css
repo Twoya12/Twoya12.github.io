@@ -1,0 +1,41 @@
+
+        h1{
+            font-size: 50px; 
+            text-align: center;
+            color: red;
+            margin-bottom: 50px;
+        }
+        p{ 
+            text-align: right;
+            color: rgb(252, 252, 253);
+            margin-bottom: 50px;
+            background-color: red;
+        }
+
+        body{
+            background-color: rgb(248, 241, 243);
+            font-size: 20px;
+            font-family: "Roboto";
+        }
+        div{
+            background-color: rgb(7, 7, 7);
+            width: 80%;
+            margin: auto;
+            padding: 90px;
+        }
+        img{
+            max-width: 100%;
+            margin: auto;
+            height: auto;
+            display: block;
+        }
+a{
+    text-decoration: none;
+    color: tomato;
+}
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+   
